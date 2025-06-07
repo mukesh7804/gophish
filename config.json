@@ -4,7 +4,7 @@
 		"use_tls": false,
 		"cert_path": "gophish_admin.crt",
 		"key_path": "gophish_admin.key",
-		"trusted_origins": ["https://gophish-production-7f79.up.railway.app"]
+		"trusted_origins": ["https://gophish-production-462a.up.railway.app"]
 
 	},
 	"phish_server": {
@@ -12,7 +12,7 @@
 		"use_tls": false,
 		"cert_path": "example.crt",
 		"key_path": "example.key",
-		"trusted_origins": ["https://gophish-production-7f79.up.railway.app"]
+		"trusted_origins": ["https://gophish-production-462a.up.railway.app"]
 
 	},
 	"db_name": "sqlite3",
